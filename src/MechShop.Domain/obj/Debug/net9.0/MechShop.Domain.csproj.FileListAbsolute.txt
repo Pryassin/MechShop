@@ -1,0 +1,10 @@
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.csproj.AssemblyReference.cache
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.csproj.CoreCompileInputs.cache
+D:\MechShop\src\MechShop.Domain\bin\Debug\net9.0\MechShop.Domain.deps.json
+D:\MechShop\src\MechShop.Domain\bin\Debug\net9.0\MechShop.Domain.dll
+D:\MechShop\src\MechShop.Domain\bin\Debug\net9.0\MechShop.Domain.pdb
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.dll
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\refint\MechShop.Domain.dll
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.pdb
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\ref\MechShop.Domain.dll

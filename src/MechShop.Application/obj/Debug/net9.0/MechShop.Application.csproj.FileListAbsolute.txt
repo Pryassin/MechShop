@@ -1,0 +1,15 @@
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.csproj.AssemblyReference.cache
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.AssemblyInfoInputs.cache
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.AssemblyInfo.cs
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.csproj.CoreCompileInputs.cache
+D:\MechShop\src\MechShop.Application\bin\Debug\net9.0\MechShop.Application.deps.json
+D:\MechShop\src\MechShop.Application\bin\Debug\net9.0\MechShop.Application.dll
+D:\MechShop\src\MechShop.Application\bin\Debug\net9.0\MechShop.Application.pdb
+D:\MechShop\src\MechShop.Application\bin\Debug\net9.0\MechShop.Domain.dll
+D:\MechShop\src\MechShop.Application\bin\Debug\net9.0\MechShop.Domain.pdb
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.00321ED5.Up2Date
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.dll
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\refint\MechShop.Application.dll
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.pdb
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\ref\MechShop.Application.dll
