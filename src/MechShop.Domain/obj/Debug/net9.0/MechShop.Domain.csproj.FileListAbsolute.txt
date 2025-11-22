@@ -8,3 +8,4 @@ D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.dll
 D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\refint\MechShop.Domain.dll
 D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.pdb
 D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\ref\MechShop.Domain.dll
+D:\MechShop\src\MechShop.Domain\obj\Debug\net9.0\MechShop.Domain.sourcelink.json

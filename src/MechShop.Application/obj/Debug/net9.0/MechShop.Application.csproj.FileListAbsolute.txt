@@ -13,3 +13,4 @@ D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.dll
 D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\refint\MechShop.Application.dll
 D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.pdb
 D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\ref\MechShop.Application.dll
+D:\MechShop\src\MechShop.Application\obj\Debug\net9.0\MechShop.Application.sourcelink.json

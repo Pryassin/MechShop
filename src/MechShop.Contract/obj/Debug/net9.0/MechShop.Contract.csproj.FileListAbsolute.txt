@@ -1,0 +1,12 @@
+D:\MechShop\src\MechShop.Contract\bin\Debug\net9.0\MechShop.Contract.deps.json
+D:\MechShop\src\MechShop.Contract\bin\Debug\net9.0\MechShop.Contract.dll
+D:\MechShop\src\MechShop.Contract\bin\Debug\net9.0\MechShop.Contract.pdb
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.AssemblyInfoInputs.cache
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.AssemblyInfo.cs
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.csproj.CoreCompileInputs.cache
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.sourcelink.json
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.dll
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\refint\MechShop.Contract.dll
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\MechShop.Contract.pdb
+D:\MechShop\src\MechShop.Contract\obj\Debug\net9.0\ref\MechShop.Contract.dll
